@@ -1,2 +1,3 @@
 # Tema-Escuro-Discord
-Um tema escuro para o discord
+Eu fiz um tema mais escuro para o discord
+
