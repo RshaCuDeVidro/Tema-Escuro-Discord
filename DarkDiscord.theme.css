@@ -1,0 +1,45 @@
+//META{"name":"Rsha TemaEscuro","description":"Um tema escuro para o discord","source":"https://github.com/RshaCuDeVidro/Tema-Escuro-Discord","author":"RshaCuDeVidro#3075","version":"2.3.0"}*//
+/**
+ * @name Tema dark discord
+ * @authorId 360212994619211789
+ * @author $RshaCuDeVidro#3075
+**/
+
+
+
+.theme-dark,
+.theme-light,
+:root {
+   --background-primary: #f0000;
+   --background-secondary: #000000;
+   --background-secondary-alt: #00000;
+   --background-tertiary: #030303;
+   --background-accent: #141414;
+   --background-floating: black;
+   --background-modifier-hover: rgba(255, 255, 255, 0.01) ;
+   --background-modifier-active: rgba(255, 255, 255, 0.03);
+   --background-modifier-selected: rgba(255, 255, 255, 0.04) ;
+   --background-modifier-accent: hsla(0, 0%, 100%, 0.06) ;
+   --channeltextarea-background: var(--background-accent) ;
+   --deprecated-card-bg: rgba(0, 0, 0, 0.2);
+   --deprecated-card-editable-bg: rgba(0, 0, 0, 0.1) ;
+   --deprecated-text-input-bg: var(--deprecated-card-editable-bg);
+   --deprecated-text-input-border: var(--background-floating);
+   --deprecated-text-input-border-disabled: var(--background-tertiary) ;
+   --activity-card-background: var(--background-primary) ;
+   --channels-default: #9f9f9f ;
+   --text-muted: #e83aba ;
+   --text-normal: #ffffff ;
+   --interactive-normal: #c8c8c8 ;
+   --interactive-hover: #dcddde ;
+   --interactive-active: #ffffff ;
+   --interactive-muted: #74747431313 ;
+   --header-primary: white ;
+   --header-secondary: #c9c9c9 ;
+   --toast-background: var(--background-primary) ;
+   --toast-header: var(--background-tertiary) ;
+   --toast-contents: var(--background-secondary) ;
+   --toast-box-shadow: rgba(0, 0, 0, 0.2) ;
+   --toast-border: var(--background-tertiary) ;
+
+}
