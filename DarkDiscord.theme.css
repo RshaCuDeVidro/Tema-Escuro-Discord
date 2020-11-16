@@ -1,4 +1,4 @@
-//META{"name":"Rsha TemaEscuro","description":"Um tema escuro para o discord","source":"https://github.com/RshaCuDeVidro/Tema-Escuro-Discord","author":"RshaCuDeVidro#3075","version":"2.3.0"}*//
+//META{"name":"Rsha TemaEscuro","description":"Um tema escuro para o discord","source":"https://raw.githubusercontent.com/RshaCuDeVidro/Tema-Escuro-Discord/main/DarkDiscord.theme.css","author":"RshaCuDeVidro#3075","version":"2.4.0"}*//
 /**
  * @name Tema dark discord
  * @authorId 360212994619211789
@@ -33,7 +33,7 @@
    --interactive-normal: #c8c8c8 ;
    --interactive-hover: #dcddde ;
    --interactive-active: #ffffff ;
-   --interactive-muted: #74747431313 ;
+   --interactive-muted: #aaaaaa ;
    --header-primary: white ;
    --header-secondary: #c9c9c9 ;
    --toast-background: var(--background-primary) ;
