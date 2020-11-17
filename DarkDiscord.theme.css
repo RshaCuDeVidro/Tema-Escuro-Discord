@@ -5,14 +5,12 @@
  * @author $RshaCuDeVidro#3075
 **/
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+
 
 
 .theme-dark,
 .theme-light,
-:root {
-   --accentcolor: 163,47,193;		
-   --linkcolor: 255,0,251;		
+:root {		
    --background-primary: #f0000;
    --background-secondary: #000000;
    --background-secondary-alt: #00000;
