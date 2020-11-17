@@ -1,15 +1,18 @@
-//META{"name":"Rsha TemaEscuro","description":"Um tema escuro para o discord","source":"https://raw.githubusercontent.com/RshaCuDeVidro/Tema-Escuro-Discord/main/DarkDiscord.theme.css","author":"RshaCuDeVidro#3075","version":"2.4.0"}*//
+//META{"name":"RshaDarkTheme","description":"Um tema escuro para o discord","source":"https://raw.githubusercontent.com/RshaCuDeVidro/Tema-Escuro-Discord/main/DarkDiscord.theme.css","author":"RshaCuDeVidro#3075","version":"2.5.0"}*//
 /**
- * @name Tema dark discord
+ * @name RshaDarkTheme
  * @authorId 360212994619211789
  * @author $RshaCuDeVidro#3075
 **/
 
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 
 .theme-dark,
 .theme-light,
 :root {
+   --accentcolor: 163,47,193;		
+   --linkcolor: 255,0,251;		
    --background-primary: #f0000;
    --background-secondary: #000000;
    --background-secondary-alt: #00000;
